@@ -1,6 +1,6 @@
 latitude,longitude,name,steder
 55.670249,10.333328,Danmark,Danmark
-55.990778,12.552963,Espergærde,Espergærde
+55.990778,12.552963,Espergærde,Espergærde55.8613681
 55.661802,12.516952,Valby,Valby
 55.88852,12.530354,Rungsted,Kystbanen
 56.034528,12.613614,Helsingør,Helsingør
@@ -291,3 +291,4 @@ latitude,longitude,name,steder
 8.7959876,-82.4780635,Boquete,Boquete
 9.3708886,-82.2442121,Bocas del Toro,Bocas del Toro
 8.4300068,-82.3802594,El Valle ,El Valle 
+55.8613681,12.0978161,Græse,Græse
